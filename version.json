@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/karakuskaan/kamu101-updates/releases/download/v1.0.2/KAMU101_TESTMATIK.exe",
-  "release_notes": "Deneme",
+  "version": "1.0.3",
+  "download_url": "https://github.com/karakuskaan/kamu101-updates/releases/download/v1.0.3/KAMU101_TESTMATIK_v1.0.3.exe",
+  "release_notes": "Hata Ayıklama",
   "force_update": false
 }
